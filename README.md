@@ -1,6 +1,7 @@
 # LuaAssignmentTest
 
-Goal: 
+# Goal: 
+
 You are writing a feature for a game. This feature will move a you closer to a destination each 
 turn but you are limited by stamina and max distance you can travel per turn. Stamina increases a 
 bit per turn but has a cap. Reach the destination before you run out of stamina. Modify the config 
