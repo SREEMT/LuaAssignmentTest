@@ -1,0 +1,6 @@
+A=3
+B=4
+C=12
+Stamina=10
+StaminaRecovery=2
+GoalDistance=50
