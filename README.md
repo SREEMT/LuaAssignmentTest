@@ -18,11 +18,11 @@ C: holds an int
 
 Stamina: max stamina you have 
 
-Stamina_recovery: stamina recovered per turn, can go negative based on how far you 
+StaminaRecovery: stamina recovered per turn, can go negative based on how far you 
 want to move. 
 
 
-Goal_distance: distance to goal from start. Goes down as you move. 
+GoalDistance: distance to goal from start. Goes down as you move. 
 
 
 Requirements: - 
